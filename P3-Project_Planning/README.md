@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+
 Entire Book Collection Page: https://app.moqups.com/KtHRlRHZ0FwefyGUC8RnKlqTfoqdtNpt/view/page/ad64222d5 
 
 Add Book: https://app.moqups.com/KtHRlRHZ0FwefyGUC8RnKlqTfoqdtNpt/edit/page/a09745ea1
