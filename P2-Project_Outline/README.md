@@ -33,6 +33,6 @@ MySQL
 CSS
 HTML
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to only show specific user entries using authentication
 ### Project Tracker
 https://trello.com/b/Bx7yEIIe/booklibrary
